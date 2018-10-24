@@ -1,0 +1,5 @@
+pe/com/CoffeeWebapp/dao/UsuarioDaoImpl.class
+pe/com/CoffeeWebapp/dao/UsuarioDaoI.class
+pe/com/CoffeeWebapp/modelo/Usuario.class
+pe/com/CoffeeWebapp/SysDataAccess.class
+pe/com/CoffeeWebapp/HibernateConfiguration.class
